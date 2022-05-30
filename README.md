@@ -47,3 +47,7 @@ int main()
 
  - [ ] Это список задач
  - [x] Это выполненная задача
+
+
+
+Ссылка на другой md файл в репозитарии Cum Jar https://github.com/PogoninStepan/Jar-Project/blob/main/GACHI-MUCHI.md
