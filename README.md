@@ -47,5 +47,3 @@ int main()
 
  - [ ] Это список задач
  - [x] Это выполненная задача
-
-![alt text]([https://github.com/](https://pngimg.com/uploads/github/github_PNG19.png))
