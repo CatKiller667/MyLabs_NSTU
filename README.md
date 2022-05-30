@@ -50,4 +50,4 @@ int main()
 
 
 
-Ссылка на другой md файл в репозитарии Jar-project https://github.com/PogoninStepan/Jar-Project/blob/main/GACHI-MUCHI.md
+Ссылка на другой md файл в репозитарии Jar-project https://github.com/PogoninStepan/Jar-Project/blob/main/README.md
